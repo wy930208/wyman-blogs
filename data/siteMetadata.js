@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Wyman's Front-End Journey',
+  title: `Wyman's Front-End Journey`,
   author: 'Wyman Wong',
-  headerTitle: 'Wyman's Front-End Journey',
+  headerTitle: `Wyman's Front-End Journey`,
   description: 'Share some unique insights',
   language: 'en-us',
   theme: 'system', // system, dark or light
